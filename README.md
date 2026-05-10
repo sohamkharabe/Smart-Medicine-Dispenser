@@ -8,6 +8,17 @@
 
 ---
 
+## 📌 Project Status
+
+✅ Working Prototype Completed  
+✅ Web Dashboard Functional  
+✅ Emergency Alert Logic Implemented  
+✅ GPS Tracking Integrated  
+✅ Community Demonstration Conducted
+
+---
+
+
 ## 📌 Overview
 
 The Smart Medicine Dispenser is an IoT-based healthcare system designed to help elderly patients, hospital inpatients, and cognitively disabled individuals take medicines on time safely and efficiently.
@@ -50,6 +61,27 @@ This project provides a low-cost ESP32-based smart medicine dispenser that:
 - 📱 ESP32 web dashboard
 - 🚨 Decision-based emergency alert system
 - 🔋 Portable low-power operation
+
+---
+
+## 🛠️ Tech Stack
+
+### Hardware
+- ESP32 DevKit V1
+- SG90 Servo Motor
+- DS1302 RTC Module
+- FC-51 IR Sensor
+- Pulse Sensor
+- NEO-6M GPS Module
+- SSD1306 OLED Display
+
+### Software
+- Arduino IDE
+- Embedded C++
+- HTML/CSS
+- ESP32 Web Server
+- TinyGPSPlus Library
+- Adafruit SSD1306 Library
 
 ---
 
@@ -108,6 +140,34 @@ Dashboard features:
 - Real-time updates
 
 ---
+
+## ⚡ Working Flow
+
+1. The caregiver sets medicine schedules through the web dashboard.
+2. The ESP32 continuously checks real-time clock data from the RTC module.
+3. At the scheduled time, the servo motor rotates the carousel compartment.
+4. The buzzer plays an alert tone for medicine notification.
+5. The IR sensor detects whether the medicine was collected.
+6. After medicine retrieval, the pulse sensor measures heart rate.
+7. The ESP32 updates all information on the local web dashboard.
+8. If a missed dose and abnormal heart rate occur together, an emergency alert is triggered with GPS location data.
+
+---
+
+## 🚀 Setup Instructions
+
+1. Connect all hardware components according to GPIO configuration.
+2. Install required ESP32 and sensor libraries in Arduino IDE.
+3. Upload the firmware to ESP32 using Arduino IDE.
+4. Power the device using a 3.7V battery or USB supply.
+5. Connect to WiFi hotspot:
+   - SSID: MediDispenser
+   - Password: medicine123
+6. Open browser and visit:
+   - 192.168.4.1
+  
+---
+
 
 ## 📷 Project Images
 
