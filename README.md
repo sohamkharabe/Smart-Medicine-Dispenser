@@ -113,15 +113,15 @@ Dashboard features:
 
 ### System Block Diagram
 
-![Block Diagram](Block-Diagram.jpg)
+![Block Diagram](images/Block-Diagram.jpg)
 
 ### Working Prototype
 
-![Prototype](Working-Prototype.jpg)
+![Prototype](images/Working-Prototype.jpg)
 
 ### Web Interface
 
-![Web Interface](Web-Interface.png)
+![Web Interface](images/Web-Interface.png)
 
 ---
 
