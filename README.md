@@ -68,20 +68,20 @@ This project provides a low-cost ESP32-based smart medicine dispenser that:
 ---
 
 ## 🔌 GPIO Connections
+
 | GPIO Pin | Connected Device |
-
-| GPIO 13 | Servo Motor  |
-| GPIO 18 | RTC CLK      |
-| GPIO 19 | RTC DAT      |
-| GPIO 5  | RTC RST      |
-| GPIO 21 | OLED SDA     |
-| GPIO 22 | OLED SCL     | 
-| GPIO 16 | GPS RX       |
-| GPIO 17 | GPS TX       |
-| GPIO 27 | IR Sensor    |
+|---|---|
+| GPIO 13 | Servo Motor |
+| GPIO 18 | RTC CLK |
+| GPIO 19 | RTC DAT |
+| GPIO 5 | RTC RST |
+| GPIO 21 | OLED SDA |
+| GPIO 22 | OLED SCL |
+| GPIO 16 | GPS RX |
+| GPIO 17 | GPS TX |
+| GPIO 27 | IR Sensor |
 | GPIO 34 | Pulse Sensor |
-| GPIO 25 | Buzzer       |
-
+| GPIO 25 | Buzzer |
 ---
 
 
