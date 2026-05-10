@@ -113,7 +113,7 @@ Dashboard features:
 
 ## 🧩 System Vision
 
-![System Vision](images/system-vision.png)
+![System Vision](images/System-Vision.png)
 
 ### System Block Diagram
 
@@ -129,7 +129,7 @@ Dashboard features:
 
 ## 🚨 Emergency Alert
 
-![Emergency Alerts](images/emergency-alerts.png)
+![Emergency Alerts](images/Emergency-Alerts.png)
 
 ---
 
