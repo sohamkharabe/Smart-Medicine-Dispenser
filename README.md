@@ -113,7 +113,7 @@ Dashboard features:
 
 ### System Block Diagram
 
-![Block Diagram](images/block-Diagram.jpg)
+![Block Diagram](images/block-diagram.jpg)
 
 ### Working Prototype
 
