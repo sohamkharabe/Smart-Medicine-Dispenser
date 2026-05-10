@@ -111,6 +111,10 @@ Dashboard features:
 
 ## 📷 Project Images
 
+## 🧩 System Vision
+
+![System Vision](images/system-vision.png)
+
 ### System Block Diagram
 
 ![Block Diagram](images/block-diagram.jpg)
@@ -122,6 +126,10 @@ Dashboard features:
 ### Web Interface
 
 ![Web Interface](images/Web-Interface.png)
+
+## 🚨 Emergency Alert
+
+![Emergency Alerts](images/emergency-alerts.png)
 
 ---
 
